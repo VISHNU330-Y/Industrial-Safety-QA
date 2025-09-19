@@ -28,4 +28,4 @@ Run `evaluate.py` to test 8 safety questions. Results are saved to `evaluation_r
 ##  What I Learned
 
 This project taught me how to build a full-stack AI retrieval system from scratch — from ingesting raw PDFs to serving answers via a web API. I learned how to balance semantic and keyword signals, handle low-confidence queries, and design a frontend that’s both functional and demo-ready. Most importantly, I saw how modular design and robust error handling make debugging and iteration far easier.
-## Project Demonstration:** A walkthrough of the system's features and architecture is available in this [demo video](https://youtu.be/3INHhsTghiY).
+## Project Demonstration: A walkthrough of the system's features and architecture is available in this [demo video](https://youtu.be/3INHhsTghiY).
